@@ -1,0 +1,2 @@
+learning_rate,batch_size,num_layers,num_neurons,activation,optimizer,dropout_rate,epochs,train_loss_final,train_acc_final,val_loss_final,val_acc_final,test_loss,test_acc,run_time_sec
+0.01,256,1,64,relu,adam,0.0,8,0.21978621184825897,0.9177592396736145,0.34106120467185974,0.8856666684150696,0.35238826274871826,0.8852999806404114,381.24519896507263

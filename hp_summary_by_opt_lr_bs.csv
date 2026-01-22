@@ -1,0 +1,2 @@
+optimizer,learning_rate,batch_size,val_acc_final
+adam,0.01,256,0.8856666684150696
